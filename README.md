@@ -13,5 +13,5 @@ the calculated distances between "series_0", "series_1" and "series_2" are so sm
 bar for this grouping is not very visible in the dendrogram.
 
 The file "cluster.ipynb"  contains a notebook that can be run with the command 'jupyter notebookæ
-The notebook might be easier to follow than the code in cluster.py. The files "cluster.html" and "cluster.pdf"
-displays the output from running the algorithm on the data in nterview_exercise_data.json.
+The notebook may be easier to follow than the code in cluster.py. The files "cluster.html" and "cluster.pdf"
+displays the output from running the algorithm on the data in interview_exercise_data.json.
