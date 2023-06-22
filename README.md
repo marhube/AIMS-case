@@ -1,4 +1,4 @@
-#Clustering of time series
+# Clustering of time series
 
 
 The file cluster.py contains code for reading and clustering data.
