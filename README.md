@@ -8,9 +8,7 @@ First click on the button "Browse" and select the file containing the data.
 Note: The data must be in the form of a json-file.
 Then click on the button "Submit". The clustered groups will then be printed on the screen 
 and a new window will pop up with a dendrogram plot.
-Note: For the data contained in "interview_exercise_data.json"
-the calculated distances between "series_0", "series_1" and "series_2" are so small that the 
-bar for this grouping is not very visible in the dendrogram.
+
 
 The file "cluster.ipynb"  contains a notebook that can be run with the command 'jupyter notebookæ
 The notebook may be easier to follow than the code in cluster.py. The files "cluster.html" and "cluster.pdf"
