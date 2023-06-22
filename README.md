@@ -1,5 +1,5 @@
-# AIMS-case
-Exercise - selection process 
+#Clustering of time series
+
 
 The file cluster.py contains code for reading and clustering data.
 If you are in the same folder as cluster.py it can be run by typing cluster.py and hit enter.
