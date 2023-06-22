@@ -11,5 +11,4 @@ and a new window will pop up with a dendrogram plot.
 
 
 The file "cluster.ipynb"  contains a notebook that can be run with the command 'jupyter notebookæ
-The notebook may be easier to follow than the code in cluster.py. The files "cluster.html" and "cluster.pdf"
-displays the output from running the algorithm on the data in interview_exercise_data.json.
+The notebook may be easier to follow than the code in cluster.py. 
